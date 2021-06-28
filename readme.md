@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Agus Prasetyo
 I'm just an ordinary person who likes to write code and learn new things
 
-Skills: LARAVEL / PHP / JAVA / JS / HTML / CSS etc
+Skills: LARAVEL / PHP / JAVA / JS / HTML / CSS and many more
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agusprasetyo30&show_icons=true)
 
